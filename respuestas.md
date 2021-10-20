@@ -1,3 +1,4 @@
+
 **VARIABLES Y OPERACIONES.**
 
 1.- Responde las siguientes preguntas en la seccion de comentarios.
@@ -37,7 +38,8 @@ Dinero real (dinero ahorrado menos deudas)
 - If, else if, switch, ternario.
 
 2.- Replica el comportamiento del siguiente codigo que usa la sentencia switch utilizando if, else, y else if.
-3️.- Replica el comportamiento de tu condicional anterior con if, else y else if, pero ahora solo con if (sin else ni else if)
+
+3️.- Replica el comportamiento de tu condicional anterior con if, else y else if, pero ahora solo con if (sin else ni else if).
 
 
 **CICLOS**
